@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey, I'm Al Joubert 👋
 
-<!--
-**AnalystAL/AnalystAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics Professional → AI Automation & Data Engineering**
 
-Here are some ideas to get you started:
+I'm a Dallas–Fort Worth based analyst with 9+ years of experience in SQL, ETL pipelines, and business intelligence. I'm currently transitioning into AI automation and data engineering — building real tools for real businesses, not just tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I'm Building
+
+### 🤖 AI Voice Agent — DFW Mobile Fingerprinting
+An AI-powered phone agent that handles inbound client calls, answers FAQs, and delivers booking links via SMS — fully autonomous, 24/7.
+- **Stack:** Python · Twilio · LLM APIs
+- **Status:** In Development — deploying soon
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Languages** | Python · SQL |
+| **BI & Reporting** | Power BI · MicroStrategy · Tableau · SSRS |
+| **Data & ETL** | SQL Server · SSMS · SSIS · Alteryx |
+| **Automation** | Python · n8n · Twilio · REST APIs |
+| **Cloud** | Google Cloud Platform (in progress) |
+
+---
+
+## 💼 Background
+
+- **Business Insight Analyst III** @ Conifer Health Solutions
+- Previously: Microsoft (Power BI Support Engineer), Fannie Mae, Health Texas Provider Network
+- **Founder:** DFW Mobile Fingerprinting · Irving TX Mobile Notary Services
+
+---
+
+## 🎯 Currently Focused On
+
+- [ ] Deploying my AI voice agent to production
+- [ ] Building a Square → BigQuery analytics pipeline
+- [ ] Transitioning into a remote AI Automation / Data Engineering role
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/al-joubert-65599767/)
+- 📧 AVJTheAnalyst@Gmail.com
